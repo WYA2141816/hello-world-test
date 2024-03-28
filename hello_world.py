@@ -6,4 +6,4 @@ Part B
 Simple 'Hello World!' program, for testing purposes.
 """
 
-print("Hello world!")
+print("Hello World!")
